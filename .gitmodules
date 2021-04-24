@@ -1,0 +1,6 @@
+[submodule "kalendly-fe"]
+	path = kalendly-fe
+	url = git@github.com-p-raj:p-raj/kalendly-fe.git
+[submodule "kalendly-be"]
+	path = kalendly-be
+	url = git@github.com-p-raj:p-raj/kalendly-be.git
